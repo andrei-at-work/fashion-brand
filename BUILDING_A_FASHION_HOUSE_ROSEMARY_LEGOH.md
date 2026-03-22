@@ -1425,7 +1425,8 @@ pencil-drawn structural sketches of an asymmetric origami collar construction. A
 compass, architects' scale ruler, and a loupe rest on the table. Natural afternoon
 sidelight from a large west-facing window, casting long geometric shadows across the
 surface. Shot on large-format camera. Color palette: dark volcanic earth, warm sand,
-raw concrete grey. No people in frame. Editorial still-life. --ar 3:2 --style raw --v 6
+raw concrete grey. No people in frame. Editorial still-life. 8k resolution, ultra-high
+definition, hyper-realistic, maximum detail. --ar 3:2 --style raw
 ```
 
 ---
@@ -1437,7 +1438,8 @@ Extreme close-up of the word "LEGOH" debossed 0.5mm deep into heavy off-white co
 rag paper. Letterpress impression visible. Sans-serif geometric typeface, ultra-wide
 tracking. Lit from the left at a raking angle — each letter casts a precise tiny shadow
 revealing depth. Background: warm cream paper texture fills the entire frame. No color.
-Monochrome warmth. Shot on macro lens, medium-format film grain. --ar 4:5 --style raw --v 6
+Monochrome warmth. Shot on macro lens, medium-format film grain. 8k resolution,
+ultra-high definition, hyper-realistic, maximum detail. --ar 4:5 --style raw
 ```
 
 ---
@@ -1451,7 +1453,8 @@ the words "ROSEMARY LEGOH" — one with portal-like vertical bars flanking the n
 with vertical columnar stacking, one with a structural rectangular enclosure. A brass ruler
 and architect's compass rest beside them. Side lighting from a gallery window reveals
 emboss-like pen pressure in the strokes. Warm neutral palette. No digital rendering —
-must look hand-made. --ar 3:2 --style raw --v 6
+must look hand-made. 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+--ar 3:2 --style raw
 ```
 
 ---
@@ -1464,7 +1467,8 @@ hardware — a zipper pull or garment press-stud. The mark consists of two verti
 of unequal height connected at a horizontal base. Photographed at a 15-degree angle.
 Razor-thin depth of field — only the monogram is sharp. Background: blurred warm sand-
 colored woven fabric with visible thread texture. Studio light simulating a single window
-source from above-right. Visible patina and age on the bronze. --ar 1:1 --style raw --v 6
+source from above-right. Visible patina and age on the bronze. 8k resolution,
+ultra-high definition, hyper-realistic, maximum detail. --ar 1:1 --style raw
 ```
 
 ---
@@ -1479,7 +1483,8 @@ away from the neck in a single dramatic angular pleat, casting a geometric shado
 the collarbone. Raw concrete walls, floor-to-ceiling glass with tropical foliage beyond.
 Natural afternoon sidelight, unfiltered, no flash. Expression: still, composed, powerful.
 Medium-format film grain. Warm neutrals, desaturated shadows. Full-length portrait.
---ar 4:5 --style raw --v 6
+8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+--ar 4:5 --style raw
 ```
 
 ---
@@ -1492,7 +1497,8 @@ threads visible — warp and weft intersecting at 90 degrees with slight hand-ir
 spacing. A small brass jeweler's loupe rests on the fabric at the edge of frame. Natural
 raking light from the left at 80 degrees to the surface, casting micro-shadows between
 each thread. Color palette: sogan earth tones — warm brown, raw indigo, undyed cotton
-cream. No processing, no filters. Shot on 100mm macro lens. --ar 1:1 --style raw --v 6
+cream. No processing, no filters. Shot on 100mm macro lens. 8k resolution,
+ultra-high definition, hyper-realistic, maximum detail. --ar 1:1 --style raw
 ```
 
 ---
@@ -1506,7 +1512,8 @@ an asymmetric collar fold visible at the top. A hand-woven striped Lurik fabric 
 cream and indigo lies untied beside the box. A small stone-paper card with a letterpress
 monogram and a dark blue wax seal rest on the table. Soft overhead natural light, warm
 shadows. No hands in frame. Color palette: warm off-white, deep indigo, aged oak, a
-single accent of deep red-brown wax. --ar 4:5 --style raw --v 6
+single accent of deep red-brown wax. 8k resolution, ultra-high definition,
+hyper-realistic, maximum detail. --ar 4:5 --style raw
 ```
 
 ---
@@ -1519,7 +1526,8 @@ Numbers 1–30 written in warm indigo fountain pen ink, organized in three colum
 in small capitals. A tailor's chalk piece and a coiled brass measuring tape rest alongside
 the paper. Soft diffused natural light from above. The paper has slight curl at the edges.
 No digital elements — entirely analog aesthetic. Color palette: warm cream, indigo ink,
-brass. --ar 3:2 --style raw --v 6
+brass. 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+--ar 3:2 --style raw
 ```
 
 ---
@@ -1533,7 +1541,8 @@ background, slightly out of focus: a cream rigid box on a raw wood table with a 
 coiled indigo-and-cream striped fabric band beside it. Soft afternoon window light from the
 right. Shallow depth of field. The hand has a single architectural bronze cuff bracelet.
 No face visible. Color palette: warm sand, oak, deep indigo, screen glow.
---ar 4:5 --style raw --v 6
+8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+--ar 4:5 --style raw
 ```
 
 ---
@@ -1547,7 +1556,8 @@ a structured asymmetric collar coat, text overlay "The RL Fold." Right phone dis
 minimalist luxury e-commerce product page with the text "Final 2 pieces" next to a small
 amber dot indicator. Both screens at slight angle. Soft natural overhead light, no harsh
 reflections. Color palette: warm cream linen, screen whites and indigos.
---ar 16:9 --style raw --v 6
+8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+--ar 16:9 --style raw
 ```
 
 ---
@@ -1560,7 +1570,8 @@ construction. White lines on deep indigo background. Five labeled zones marked w
 thin leader lines: "Origin Point," "The Diagonal (34°)," "The Peak," "The Descent,"
 "Resolution Point." A protractor marking shows the 34-degree angle. Drawn in the style
 of a modernist architectural elevation drawing — precise, minimal, no decorative elements.
-Small annotation text in a monospaced font. --ar 3:2 --style raw --v 6
+Small annotation text in a monospaced font. 8k resolution, ultra-high definition,
+hyper-realistic, maximum detail. --ar 3:2 --style raw
 ```
 
 ---
@@ -1574,7 +1585,8 @@ taut cream-colored warp threads. The loom is old, made of dark teak, with visibl
 marks. Natural window light from the right, soft and unmanipulated. The background is a
 blurred workshop interior — stacked fabric bolts, hanging threads. Shot at eye level with
 the hands. No face visible. Color palette: warm wood, indigo thread, cream cotton, soft
-shadows. Peter Lindbergh documentary influence. --ar 4:5 --style raw --v 6
+shadows. Peter Lindbergh documentary influence. 8k resolution, ultra-high definition,
+hyper-realistic, maximum detail. --ar 4:5 --style raw
 ```
 
 ---
@@ -1589,8 +1601,8 @@ half: a precise hand-drawn architectural plan-view sketch of the RL Fold collar,
 five numbered zones with technical dimension lines, seam annotations, and a 34° angle
 marked with a protractor arc. Both halves rendered exclusively in dark volcanic brown ink
 (**Tanah Vulkanik**). A faint hairline divides the two panels. No colour beyond that
-single ink tone. Asymmetric inset format. Shot on large-format camera.
---ar 3:2 --style raw --v 6
+single ink tone. Asymmetric inset format. Shot on large-format camera. 8k resolution,
+ultra-high definition, hyper-realistic, maximum detail. --ar 3:2 --style raw
 ```
 
 ---
@@ -1606,7 +1618,8 @@ ivory, mangrove sea green-black, antique gold. Right strip labelled "Parang Grid
 — four swatches: white clay mineral, ink black warm, cream accent, a single deep red
 Benang Merah stripe. Each swatch is a painted rectangle with the colour name and hex code
 printed in small monospaced type below. Natural gallery light from the left. Clean white
-border. Large-format camera. --ar 3:2 --style raw --v 6
+border. Large-format camera. 8k resolution, ultra-high definition,
+hyper-realistic, maximum detail. --ar 3:2 --style raw
 ```
 
 ---
@@ -1623,7 +1636,8 @@ in the same stone paper — at its centre a rich deep indigo wax seal bearing a 
 two-vertical-stroke monogram; beneath the seal, two lines of handwritten fountain-pen
 cursive. Soft overhead natural window light. No props beyond the two cards.
 Color palette: stone paper warm white, indigo letterpress, deep **Benang Merah** wax,
-warm oak grain. --ar 4:5 --style raw --v 6
+warm oak grain. 8k resolution, ultra-high definition, hyper-realistic,
+maximum detail. --ar 4:5 --style raw
 ```
 
 ---
@@ -1640,7 +1654,8 @@ direct gaze; (04) back to camera, absolute stillness; (05) head turned, one hand
 near collar. In each sketch the asymmetric fold collar reads as a clear structural shape.
 Below each box: bold numerals 01–05 and the italic pose name in a clean sans-serif.
 Confident brushstroke draughtsmanship, no grey shading, pure black and white.
---ar 16:9 --style raw --v 6
+8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+--ar 16:9 --style raw
 ```
 
 ---
