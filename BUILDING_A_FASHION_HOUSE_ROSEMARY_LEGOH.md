@@ -1421,12 +1421,15 @@ Rosemary Legoh is currently a personality, not yet an institution. What happens 
 ```
 Overhead still-life photograph of an architect's oak worktable. Arranged: hand-woven
 Indonesian batik fabric swatches in deep indigo and sogan earth tones, alongside
-pencil-drawn structural sketches of an asymmetric origami collar construction. A brass
-compass, architects' scale ruler, and a loupe rest on the table. Natural afternoon
-sidelight from a large west-facing window, casting long geometric shadows across the
-surface. Shot on large-format camera. Color palette: dark volcanic earth, warm sand,
-raw concrete grey. No people in frame. Editorial still-life. 8k resolution, ultra-high
-definition, hyper-realistic, maximum detail. Aspect ratio: Landscape (3:2). Style: Raw
+pencil-drawn structural design sketches of the RL Fold — a women's asymmetric origami
+outer coat collar for the Rosemary Legoh women's fashion house — shown in plan view
+and elevation on draped women's batik fabric. Strictly women's fashion garment sketches;
+no men's garments, no dress shirt collars, no ties. A brass compass, architects' scale
+ruler, and a loupe rest on the table. Natural afternoon sidelight from a large west-facing
+window, casting long geometric shadows across the surface. Shot on large-format camera.
+Color palette: dark volcanic earth, warm sand, raw concrete grey. No people in frame.
+Editorial still-life. 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
 ---
@@ -1507,8 +1510,8 @@ ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Square (1:
 
 ```
 Overhead editorial photograph of a luxury fashion unboxing. A rigid cream-colored lift-off
-box sits open on a raw oak table. Inside: a neatly folded dark indigo batik garment with
-an asymmetric collar fold visible at the top. A hand-woven striped Lurik fabric band in
+box sits open on a raw oak table. Inside: a neatly folded women's dark indigo Javanese
+batik outer coat — the RL Fold collar's asymmetric origami pleat clearly visible at the top. A hand-woven striped Lurik fabric band in
 cream and indigo lies untied beside the box. A small stone-paper card with a letterpress
 monogram and a dark blue wax seal rest on the table. Soft overhead natural light, warm
 shadows. No hands in frame. Color palette: warm off-white, deep indigo, aged oak, a
@@ -1521,7 +1524,8 @@ hyper-realistic, maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
 ### PROMPT 08 — The Allocation Blueprint *(for FIGURE 09)*
 
 ```
-Overhead photograph of a hand-drawn production allocation chart on cream card stock.
+Overhead photograph of a hand-drawn production allocation chart for the Rosemary Legoh
+women's batik outer coat collection — 30 units of the RL Fold women's structured coat.
 Numbers 1–30 written in warm indigo fountain pen ink, organized in three columns labeled
 in small capitals. A tailor's chalk piece and a coiled brass measuring tape rest alongside
 the paper. Soft diffused natural light from above. The paper has slight curl at the edges.
