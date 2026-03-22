@@ -46,7 +46,7 @@
 | Time | Activity | Rosemary Legoh Touchpoint | Content Opportunity |
 |------|----------|--------------------------|---------------------|
 | **07:00** | Morning ritual — reading, journaling, strong coffee | She selects today's piece with deliberate care. The garment is her first intellectual decision of the day. | *Behind-the-scenes reel:* "The weaver behind this motif, Solo, 2025." |
-| **09:30** | University lecture or curatorial meeting | The asymmetric JR Fold collar is visible in her Zoom frame — a visual question mark that colleagues notice. | *Styling content:* "How the Fold reads on camera — architecture in a 16:9 frame." |
+| **09:30** | University lecture or curatorial meeting | The asymmetric RL Fold collar is visible in her Zoom frame — a visual question mark that colleagues notice. | *Styling content:* "How the Fold reads on camera — architecture in a 16:9 frame." |
 | **12:30** | Lunch with a journalist or foreign academic | The garment becomes a conversation artifact. She explains its structural lineage. | *Quote card:* Customer testimonial about how a piece sparked a 20-minute design conversation. |
 | **15:00** | Gallery walk or studio visit | She photographs the piece against a textured concrete wall. Not for marketing — for her personal archive. | *User-generated content strategy:* invite her to share for the community wall. |
 | **20:00** | Evening at a cultural talk or private dinner | The piece transitions effortlessly. No outfit change needed. This *versatility without casualness* is critical to her. | *Content angle:* "One piece, two registers — day authority, evening presence." |
@@ -73,7 +73,7 @@
 ### 2. Aesthetic Cues: High-End vs. Mass-Market
 
 **High-End Signals (She Reads Immediately):**
-- A silhouette with architectural precision — sharp shoulder, structured hem, a collar with geometric intention (the JR Fold is a direct hit).
+- A silhouette with architectural precision — sharp shoulder, structured hem, a collar with geometric intention (the RL Fold is a direct hit).
 - Fabric with *controlled* drape: it moves with purpose, not loosely.
 - Monochromatic or near-monochromatic color story — she doesn't want pattern to compete with her presence.
 - A brand that is *unknown to the general public* but recognized in her professional circle. Scarcity as social IQ.
@@ -93,7 +93,7 @@
 | Time | Activity | Rosemary Legoh Touchpoint | Content Opportunity |
 |------|----------|--------------------------|---------------------|
 | **06:30** | Pre-work — gym, or reviewing her calendar | She lays out her outfit the night before. She treats clothing as decision infrastructure. | *Content angle:* "Fewer decisions, more presence — why our clients wear Rosemary Legoh on their most important days." |
-| **08:30** | Board meeting or investor presentation | The JR Fold collar is structural armour. The asymmetry communicates creative intelligence within a formal frame. | *Editorial image:* Power pose at a glass-walled conference room. Natural light on the fold's geometry. |
+| **08:30** | Board meeting or investor presentation | The RL Fold collar is structural armour. The asymmetry communicates creative intelligence within a formal frame. | *Editorial image:* Power pose at a glass-walled conference room. Natural light on the fold's geometry. |
 | **13:00** | Lunch with a PE partner or client | She notices that her Wastra choice prompts the question *"Where is that from?"* — a competitive intelligence advantage. The brand is an access code. | *Community content:* "The question she gets at every lunch." Anonymous quote, no face needed. |
 | **17:00** | Quick pivot — team drinks or a brand event | The same piece reads "effortless" now because the structure holds. She hasn't changed. | *Reels concept:* "Boardroom to balcony — no style tax." |
 | **21:00** | Winds down, checks Instagram | She revisits the brand's page. She is not looking for promotions — she is looking for *the next drop announcement* so she can be first. | *Waitlist activation:* Direct DM or WhatsApp: "The next drop. Before anyone else knows." |
@@ -120,7 +120,7 @@
 ### 2. Aesthetic Cues: High-End vs. Mass-Market
 
 **High-End Signals (She Reads Immediately):**
-- An element that photographs *differently* from every angle — the JR Fold's asymmetry creates a new visual story in every frame. This is catnip.
+- An element that photographs *differently* from every angle — the RL Fold's asymmetry creates a new visual story in every frame. This is catnip.
 - A color story that is immediately "editorial" — not primary colors, not standard batik palettes, but a color that requires a caption to explain.
 - A brand with *friction in the purchase process* — a waitlist, a DM-first system, the absence of a public "Add to Cart" button. Scarcity is content in itself.
 - Seen on *one* person she respects, not on a grid of promoters.
@@ -139,7 +139,7 @@
 
 | Time | Activity | Rosemary Legoh Touchpoint | Content Opportunity |
 |------|----------|--------------------------|---------------------|
-| **09:00** | Morning coffee at a curated café (Satu Coffee, Tanamera, or a Bali equivalent) | The JR Fold photographs against raw concrete or rattan. She has her shot before her oat milk cools. | *UGC strategy:* Create a "Location Aesthetic Guide" for how the garment photographs in Jakarta's best-lit spaces. |
+| **09:00** | Morning coffee at a curated café (Satu Coffee, Tanamera, or a Bali equivalent) | The RL Fold photographs against raw concrete or rattan. She has her shot before her oat milk cools. | *UGC strategy:* Create a "Location Aesthetic Guide" for how the garment photographs in Jakarta's best-lit spaces. |
 | **11:00** | Brand consultation or creative brief session | She arrives in the piece as a *proof of concept* for her own taste authority. The garment is her portfolio. | *Content angle:* "What she wears to meetings where she is the mood board." |
 | **14:00** | Content creation session (her own or a client's) | She styles the piece for a Reel — the fold's movement in slow motion is the content. | *Collaboration offer:* "Style it your way" — send the piece before the drop. Film-first, purchase-after framework. |
 | **17:00** | Gallery opening, brand launch, or community event | She is in the room where the tastemakers are. The piece gets seen by the right 30 people. | *Social proof content:* "Spotted at [Event Name]" — tagged by her, not by the brand. Organic credibility. |
@@ -165,7 +165,7 @@
 
 1. **Name the Persona in Content:** Do not market to everyone. Let The Cultural Architect feel the language is written *for her*. Use phrases like "for those who read the weave before they read the price tag."
 
-2. **The Fold as Universal Bridge:** The JR Fold functions differently for each persona — it is an artifact for the Architect, armour for the Modernist, and a subject for the Curator. Design all content to be re-interpreted, not explained once.
+2. **The Fold as Universal Bridge:** The RL Fold functions differently for each persona — it is an artifact for the Architect, armour for the Modernist, and a subject for the Curator. Design all content to be re-interpreted, not explained once.
 
 3. **Scarcity is not a tactic — it is a language:** 30 units is not a limitation. It is a statement that each persona can translate into her own value system: heritage respect, exclusivity, or rare access.
 

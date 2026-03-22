@@ -33,7 +33,7 @@ Each concept is designed to work for **both top recommended names**:
 This concept is the strongest choice if the brand wants to express **structural innovation** most clearly.  
 Its key idea is **controlled asymmetry**: a composition that feels balanced not because it is centered, but because it is intelligently supported.
 
-This concept translates especially well if the fashion collection will build around a signature construction detail like the **JR Fold / asymmetric collar**.
+This concept translates especially well if the fashion collection will build around a signature construction detail like the **RL Fold / asymmetric collar**.
 
 ---
 

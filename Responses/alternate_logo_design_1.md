@@ -61,14 +61,14 @@ Typography Spec:
 
 • Dividing Line — A single hairline rule (0.25pt) runs between
                   the two words, spanning the full width of "LEGOH"
-                  This line is the JR FOLD translated into type
+                  This line is the RL FOLD translated into type
 ```
 
 **Architectural Signature — "The Cantilever":**
-The composition deliberately *unbalances* in a controlled way — "ROSEMARY" is set smaller and left-aligned, "LEGOH" is set larger and right-aligned, with the hairline bridging them. This mirrors a **cantilevered beam in architecture**: the smaller element supports the larger overhang through invisible structural tension. The asymmetry is *intentional and precise* — not accidental. It is the visual equivalent of the JR Fold Collar: structure that reads as elegance.
+The composition deliberately *unbalances* in a controlled way — "ROSEMARY" is set smaller and left-aligned, "LEGOH" is set larger and right-aligned, with the hairline bridging them. This mirrors a **cantilevered beam in architecture**: the smaller element supports the larger overhang through invisible structural tension. The asymmetry is *intentional and precise* — not accidental. It is the visual equivalent of the RL Fold Collar: structure that reads as elegance.
 
 **Wastra Reference:**
-The hairline rule echoes the *pola dasar* (base line) in batik making ��� the first line drawn on cloth from which all pattern radiates. It is the most invisible and most important element.
+The hairline rule echoes the *pola dasar* (base line) in batik making — the first line drawn on cloth from which all pattern radiates. It is the most invisible and most important element.
 
 ---
 
@@ -615,6 +615,6 @@ This is the most **abstract and conceptual** mark in the entire suite. It eschew
 >
 > *"Rosemary Legoh" carries three concepts that no competitor can own simultaneously: a woman's full name (human), structural innovation (architectural), and textile heritage (cultural). The logo system above does not illustrate these concepts — it IS these concepts, translated into line weights and negative space.*
 >
-> *Build these identities with patience. A logo earns its authority over years, not campaigns. The JR Fold Collar will be recognized before the logo is — and that is correct. Let the product lead. Let the mark follow. Let the name become inevitable.*
+> *Build these identities with patience. A logo earns its authority over years, not campaigns. The RL Fold Collar will be recognized before the logo is — and that is correct. Let the product lead. Let the mark follow. Let the name become inevitable.*
 
 ✦

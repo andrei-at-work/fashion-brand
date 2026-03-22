@@ -13,7 +13,7 @@ This prompt is designed to be given to a long-form LLM. It instructs the AI to a
 #### 1. STRATEGIC NARRATIVE RE-GROUPING
 The 18 Power Prompts must be re-ordered into five "Construction Phases." Organize the content as follows:
 * **PHASE I: THE SOVEREIGN IDENTITY** (Prompts regarding Naming, Persona, and Community).
-* **PHASE II: THE ARCHITECTURAL SIGNATURE** (Prompts regarding Logo Design, the "JR Fold," and Visual Art Direction).
+* **PHASE II: THE ARCHITECTURAL SIGNATURE** (Prompts regarding Logo Design, the "RL Fold," and Visual Art Direction).
 * **PHASE III: MATERIAL INTELLIGENCE** (Prompts regarding Fabric Sourcing, QC, and the "Loom Grid" system).
 * **PHASE IV: THE ECONOMICS OF SCARCITY** (Prompts regarding Unit Economics, Inventory Logic, and the Waitlist).
 * **PHASE V: THE PERMANENT HOUSE** (Prompts regarding Retention, Digital Strategy, and the Strategic Stress Test).

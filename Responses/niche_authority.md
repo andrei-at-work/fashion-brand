@@ -26,7 +26,7 @@
 | Pillar | What It Is | What It Is Not |
 |---|---|---|
 | **Informed Intimacy** | Speaking like a knowledgeable friend who happens to know a master weaver | Lecturing. Explaining. Condescending. |
-| **Quiet Confidence** | Asserting the value of The JR Fold without ever defending it | Boasting. Comparison. Over-explaining. |
+| **Quiet Confidence** | Asserting the value of The RL Fold without ever defending it | Boasting. Comparison. Over-explaining. |
 | **Cultural Reverence** | Honoring the *ibu-ibu* artisans and their craft as the true authority | Tokenizing. "Exotic"-izing. Performative. |
 | **Selective Inclusion** | Making the community feel chosen, not marketed to | FOMO manipulation. False urgency. Spam. |
 
@@ -69,7 +69,7 @@ These are the *owned words* of Rosemary Legoh. Use them consistently until they 
 
 | Owned Word | Meaning in Context | Usage Example |
 |---|---|---|
-| **The Fold** | The JR Fold structural signature — the brand's core innovation | *"This is The Fold at its most geometric."* |
+| **The Fold** | The RL Fold structural signature — the brand's core innovation | *"This is The Fold at its most geometric."* |
 | **Patron** | What we call our customers — never "buyer," "follower," or "customer" | *"For our Patrons in the waiting room..."* |
 | **The Inner Circle** | The waitlist / VIP community | *"The Inner Circle gets first access."* |
 | **Wastra** | Indonesian textiles — always used with reverence, never as mere decoration | *"The Wastra in this piece comes from a single loom in Pekalongan."* |
@@ -111,7 +111,7 @@ These are the *owned words* of Rosemary Legoh. Use them consistently until they 
 
 - **Slide 1:** The fabric bolt — uncut, unstructured. Caption: *"Before The Fold, there is the cloth."*
 - **Slide 2:** The motif detail. Caption: *"[Motif name] from [region]. Woven on a [loom type]. [Specific fact about the weave count or dye process]."*
-- **Slide 3:** The cutting table. Caption: *"Every pattern piece is cut by hand. The JR Fold requires a bias-cut margin of [measurement] — no machine can hold this tolerance."*
+- **Slide 3:** The cutting table. Caption: *"Every pattern piece is cut by hand. The RL Fold requires a bias-cut margin of [measurement] — no machine can hold this tolerance."*
 - **Slide 4:** Mid-construction detail of The Fold. Caption: *"This is the moment. This is why it cannot be copied."*
 - **Slide 5:** Finished garment on a stand or body. Caption: *"[Drop Name]. [Number] pieces. Available to The Inner Circle first."*
 
@@ -198,7 +198,7 @@ These are the *owned words* of Rosemary Legoh. Use them consistently until they 
 | Time | Segment |
 |---|---|
 | 0–10 min | Rosemary introduces one textile tradition (e.g., *kawung* geometry, *parang* diagonal logic) |
-| 10–25 min | How that tradition is expressed *differently* in The JR Fold vs. conventional applications |
+| 10–25 min | How that tradition is expressed *differently* in The RL Fold vs. conventional applications |
 | 25–45 min | Open styling Q&A — Patrons submit styling dilemmas live |
 | 45–60 min | "The Next Fold" — a brief, non-committal preview of the next collection's material inspiration |
 
@@ -384,4 +384,4 @@ This single card does more for retention than any loyalty points program. It ref
 
 *Document prepared for internal use — Rosemary Legoh Community Operations*
 *Module 1, Prompt 3 — Niche Authority & Community Voice*
-*Brand Evolution Encyclopedia, J.R. Collection*
+*Brand Evolution Encyclopedia, Rosemary Legoh*

@@ -1,5 +1,5 @@
 # ✦ HIGH-END BRAND NAMING REPORT ✦
-### *For J.R. Collection → Rebranding Consultation*
+### *For Rosemary Legoh — Brand Naming Archive*
 #### *Prepared by: Senior Brand Naming Consultant, SE Asian Quiet Luxury Market*
 
 ---
@@ -36,7 +36,7 @@ Before presenting options, let's decode why **"Legoh"** is a genuinely powerful 
 *[leh-GOH ah-tel-YAY]*
 
 **Brand Rationale:**
-The most architecturally direct option. "Atelier" is universally understood in fashion as the elevation above "store" or "brand" — it is a *practice*, a *workshop of ideas*. Placed after "Legoh," it transforms the surname into an institution. It signals: *this is where Judy Rosemary builds things with intention.* The name needs no translation — it works in Jakarta, Singapore, Kuala Lumpur, and beyond. It frames the JR Fold Collar and every structural innovation as the product of a *deliberate creative process*, not a factory.
+The most architecturally direct option. "Atelier" is universally understood in fashion as the elevation above "store" or "brand" — it is a *practice*, a *workshop of ideas*. Placed after "Legoh," it transforms the surname into an institution. It signals: *this is where Judy Rosemary builds things with intention.* The name needs no translation — it works in Jakarta, Singapore, Kuala Lumpur, and beyond. It frames the RL Fold Collar and every structural innovation as the product of a *deliberate creative process*, not a factory.
 
 **Visual Tagline:**
 > *"Structure is the most intimate form of beauty."*
@@ -48,7 +48,7 @@ The most architecturally direct option. "Atelier" is universally understood in f
 *[may-ZOHN leh-GOH]*
 
 **Brand Rationale:**
-"Maison" (French for *house*) carries deeper heritage weight than "Atelier" — it implies a *lineage*, a *house of values* that outlasts trends. Think Maison Margiela, Maison Kitsuné. For J.R. Collection, it reframes Judy Rosemary not as a solo designer but as the *founder of a house* — with everything that implies for legacy, succession, and brand longevity. The "Maison + Surname" construct is the most *timeless* luxury naming architecture in the world. In the Indonesian market, it creates immediate *perceived distance* from mass retail.
+"Maison" (French for *house*) carries deeper heritage weight than "Atelier" — it implies a *lineage*, a *house of values* that outlasts trends. Think Maison Margiela, Maison Kitsuné. For Rosemary Legoh as a house name, it reframes Judy Rosemary not as a solo designer but as the *founder of a house* — with everything that implies for legacy, succession, and brand longevity. The "Maison + Surname" construct is the most *timeless* luxury naming architecture in the world. In the Indonesian market, it creates immediate *perceived distance* from mass retail.
 
 **Visual Tagline:**
 > *"A house is built once. A style is built forever."*
@@ -78,7 +78,7 @@ The most architecturally direct option. "Atelier" is universally understood in f
 *[RENG-gah]*
 
 **Brand Rationale:**
-Derived from the Javanese/Old Malay root *renga* / *rengga* — meaning **"ornament," "to adorn with intention,"** and architecturally, **"the decorative carved joint between structural elements."** This last meaning is extraordinarily precise for J.R. Collection: the brand lives *exactly* at the intersection of structure and ornament — the outer is both a functional garment and a decorative statement. Phonetically, "Rengga" is percussive and confident: two hard consonants (R, G) bookending a clean vowel. It sounds like a name you'd see on a boutique door in Seminyak or Dempsey Hill.
+Derived from the Javanese/Old Malay root *renga* / *rengga* — meaning **"ornament," "to adorn with intention,"** and architecturally, **"the decorative carved joint between structural elements."** This last meaning is extraordinarily precise for this brand: it lives *exactly* at the intersection of structure and ornament — the outer is both a functional garment and a decorative statement. Phonetically, "Rengga" is percussive and confident: two hard consonants (R, G) bookending a clean vowel. It sounds like a name you'd see on a boutique door in Seminyak or Dempsey Hill.
 
 **Visual Tagline:**
 > *"The space between structure and beauty — that is where we live."*
@@ -156,7 +156,7 @@ The most *direct* and *intimate* of all options. Where "Rosemary Legoh" has poet
 *[thuh leh-GOH]*
 
 **Brand Rationale:**
-The definite article "The" before a surname is one of fashion's most *quietly aggressive* naming moves — it says: *there is only one, and you already know which one.* References: The Row (Olsen twins), The Frankie Shop. "The Legoh" positions the brand as an *institution before it is an institution* — it manufactures authority from day one through linguistic confidence alone. This is the highest-risk, highest-reward option: it requires the brand to *live up to the definite article* through product quality, visual identity, and customer experience. But for a brand with the structural innovation and heritage DNA of J.R. Collection, it is entirely *earnable*. It also solves the "JR" problem completely — the name contains zero initials.
+The definite article "The" before a surname is one of fashion's most *quietly aggressive* naming moves — it says: *there is only one, and you already know which one.* References: The Row (Olsen twins), The Frankie Shop. "The Legoh" positions the brand as an *institution before it is an institution* — it manufactures authority from day one through linguistic confidence alone. This is the highest-risk, highest-reward option: it requires the brand to *live up to the definite article* through product quality, visual identity, and customer experience. But for a brand with the structural innovation and heritage DNA of Rosemary Legoh, it is entirely *earnable*. It also solves the former initials problem completely — the name contains zero initials.
 
 **Visual Tagline:**
 > *"There are many names. There is only one Legoh."*
