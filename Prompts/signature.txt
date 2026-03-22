@@ -1,0 +1,30 @@
+
+Konteks: Saya adalah pemilik brand fashion "J.R. Collection" di Indonesia. Saat ini, kekuatan produk saya ada pada koleksi "Outer" (luaran) seperti kimono dan cardigan dengan motif berani (seperti Batik Parang atau motif geometris ala Tenun). Target pasar saya adalah wanita urban Indonesia (Gen Z & Millennial) yang mencari gaya "Wastra Modern": terlihat berbudaya namun tetap chic, kasual, dan nyaman untuk iklim tropis.
+
+Tugas Anda: Bertindaklah sebagai seorang Konsultan Brand Fashion Senior dan Direktur Kreatif yang berbasis di Jakarta. Bantu saya menyusun strategi untuk mengubah koleksi saya yang sekarang (yang masih terasa seperti "retail eceran") menjadi sebuah "Signature Look" (Gaya Khas) yang kohesif, berkelas designer, dan instantly recognizable (langsung dikenali) di pasar Indonesia.
+
+Mohon susun output dalam struktur berikut:
+
+1. Analisis & Evolusi Siluet:
+
+Berdasarkan koleksi outer saya yang sekarang cenderung longgar/ oversized, bagaimana cara memperkenalkan satu "Detail Struktural Khas" yang menjadi jati diri brand? Berikan 2 opsi strategi (misal: teknik drajping/lipatan tertentu, atau bentuk kerah yang unik/ikonik).
+
+Bagaimana cara mendesain koleksi "Inner" (baju dalaman) yang 'klop' dan komplementer dengan outer motif berani saya, agar pelanggan bisa membeli total look dari J.R. Collection?
+
+2. Strategi Motif & Warna (Color Story):
+
+Koleksi saya saat ini banyak menggunakan kontras tinggi (Hitam-Putih, Merah-Biru Tua, Kuning Kunyit). Usulkan 1 palet warna baru untuk season depan yang terasa lebih "Sophisticated" (canggih) dan mahal, namun tetap menggunakan warna dasar yang saya sukai.
+
+Bagaimana cara melakukan "Modernisasi Wastra" agar motif Batik/Tenun terlihat lebih 'muda' dan diminati anak muda Jakarta/Bandung/Surabaya? (Misalnya: bermain dengan skala motif oversized vs micro, atau teknik tabrak motif/ pattern mixing).
+
+3. Penerapan di Pasar (Market Styling):
+
+Buatlah konsep Lookbook untuk 3 skenario berbeda bagi wanita urban Indonesia mengenakan J.R. Collection "Signature Look" (contoh: untuk WFH/ ngopi cantik di café, untuk meeting formal, dan untuk pergi ke Kondangan modern).
+
+4. Prompt Visualisasi AI (untuk Midjourney/DALL-E):
+
+Tuliskan satu prompt deskriptif (dalam Bahasa Inggris, karena AI visual lebih akurat dengan Bahasa Inggris) untuk menghasilkan foto editorial high-fashion yang menggambarkan "Signature Look" J.R. Collection yang baru.
+
+Masukkan detail tentang tekstur kain (misal: linen atau sutra), pencahayaan (golden hour), dan latar belakang modern tropis Indonesia.
+
+Batasan: Gaya harus terasa Premium namun tetap dapat diproduksi secara lokal (bukan haute couture yang tidak masuk akal untuk dijual).
