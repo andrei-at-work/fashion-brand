@@ -36,8 +36,3 @@ At the end of the document, generate a separate sheet of **12 specific Image Gen
 **Action:** Begin with **PHASE I: THE SOVEREIGN IDENTITY**. Generate the layout and content for the naming and persona strategy.
 
 ***
-
-### How to use this strategy:
-1.  **Step 1:** Give the prompt above to your primary writing model (e.g., Claude 3.5 Sonnet or Gemini 1.5 Pro). 
-2.  **Step 2:** Once it generates the text and the "Image Appendix," take the specific image prompts to a generator (like Midjourney) to create the visuals.
-3.  **Step 3:** Manually replace the `[FIGURE XX]` placeholders in your Markdown editor with your generated images for a final, print-ready PDF.
