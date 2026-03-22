@@ -1482,12 +1482,14 @@ ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Square (1:
 
 ```
 Editorial fashion photograph of an Indonesian woman in her late 30s, standing in profile
-in a minimalist Jakarta art gallery. She wears a structured asymmetric origami-collar
-outer coat in hand-dyed Javanese batik silk — deep indigo and warm ivory. The collar folds
-away from the neck in a single dramatic angular pleat, casting a geometric shadow across
-the collarbone. Raw concrete walls, floor-to-ceiling glass with tropical foliage beyond.
-Natural afternoon sidelight, unfiltered, no flash. Expression: still, composed, powerful.
-Medium-format film grain. Warm neutrals, desaturated shadows. Full-length portrait.
+in a minimalist Jakarta art gallery. She has the appearance of a cover model from a high-
+end Indonesian fashion magazine such as Vogue Indonesia or Harper's Bazaar Indonesia.
+She wears a structured asymmetric origami-collar outer coat in hand-dyed Javanese batik
+silk — deep indigo and warm ivory. The collar folds away from the neck in a single dramatic angular
+pleat, casting a geometric shadow across the collarbone. Raw concrete walls, floor-to-
+ceiling glass with tropical foliage beyond. Natural afternoon sidelight, unfiltered, no
+flash. Expression: still, composed, powerful. Medium-format film grain. Warm neutrals,
+desaturated shadows. Full-length portrait.
 ultra-high definition, hyper-realistic, maximum detail.
 Aspect ratio: Portrait (4:5). Style: Raw
 ```
@@ -1604,10 +1606,13 @@ hyper-realistic, maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
 Split-panel illustration on heavy cream paper, warm **Pasir Kabut** ground. Left half:
 the word "ROSEMARY" rendered in a delicate botanical serif typeface — letters partially
 formed from fine line drawings of leaf veins, stem curves, and stipple shadow. Right
-half: a precise hand-drawn architectural plan-view sketch of the RL Fold collar, showing
-five numbered zones with technical dimension lines, seam annotations, and a 34° angle
-marked with a protractor arc. Both halves rendered exclusively in dark volcanic brown ink
-(**Tanah Vulkanik**). A faint hairline divides the two panels. No colour beyond that
+half: a precise hand-drawn architectural plan-view sketch of the RL Fold — an asymmetric
+origami-inspired standing neckline structure on a women's outer garment, NOT a shirt
+collar; the fold rises in layered geometric planes from the shoulder, with one side higher
+than the other, referencing Indonesian wiron pleating and modernist architecture —
+showing five numbered zones with technical dimension lines, seam annotations, and a 34°
+angle marked with a protractor arc. Both halves rendered exclusively in dark volcanic brown
+ink (**Tanah Vulkanik**). A faint hairline divides the two panels. No colour beyond that
 single ink tone. Asymmetric inset format. Shot on large-format camera.
 ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Landscape (3:2). Style: Raw
 ```
@@ -1639,8 +1644,9 @@ off-white stone paper lies open showing two interior panels — left panel types
 structured garment metadata in small-capitals (piece number, collection name, fabric
 origin, artisan name, date); right panel with a single paragraph of letterpress-pressed
 italic text in warm indigo ink. Below it, slightly offset: a smaller single-panel card
-in the same stone paper — at its centre a rich deep indigo wax seal bearing a geometric
-two-vertical-stroke monogram; beneath the seal, two lines of handwritten fountain-pen
+in the same stone paper — at its centre a rich deep indigo wax seal bearing the "RL"
+monogram (the letters R and L, interlocked as an abstract geometric mark — the same
+RL letterforms as the Rosemary Legoh hardware monogram); beneath the seal, two lines of handwritten fountain-pen
 cursive. Soft overhead natural window light. No props beyond the two cards.
 Color palette: stone paper warm white, indigo letterpress, deep **Benang Merah** wax,
 warm oak grain. ultra-high definition, hyper-realistic,
@@ -1654,7 +1660,9 @@ maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
 ```
 Fashion art director's storyboard contact sheet on white cartridge paper. Five gestural
 black-on-white silhouette sketches arranged in a single horizontal row, each inside its
-own thin-ruled rectangular box. Each sketch shows a confident female figure demonstrating
+own thin-ruled rectangular box. Each sketch shows a confident Indonesian female figure with the proportions and poise of
+a cover model from a high-end Indonesian fashion magazine such as Vogue Indonesia —
+demonstrating
 one of five distinct power poses: (01) profile, weight back, gaze off-frame; (02) mid-
 stride walk at 30° toward viewer, leading arm forward; (03) seated on hard-edge surface,
 direct gaze; (04) back to camera, absolute stillness; (05) head turned, one hand raised
