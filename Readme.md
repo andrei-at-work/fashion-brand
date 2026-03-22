@@ -1,14 +1,8 @@
 
----
-
-<br>
-<br>
-<br>
 <br>
 
 # ✦ BUILDING A FASHION HOUSE ✦
 
-## ROSEMARY LEGOH
 
 ### *The Definitive Strategic Monograph*
 
