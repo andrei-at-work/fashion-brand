@@ -28,7 +28,7 @@
 
 ---
 
-[FIGURE 01: FULL-PAGE EDITORIAL — Overhead shot of an architect's table. Batik fabric swatches arranged beside structural sketches of the RL Fold collar. Natural light from a west-facing window. Color palette: **Tanah Vulkanik**, **Pasir Kabut**, raw concrete.]
+![Overhead shot of an architect's table. Batik fabric swatches arranged beside structural sketches of the RL Fold collar. Natural light from a west-facing window. Color palette: Tanah Vulkanik, Pasir Kabut, raw concrete.](Images/Architects_worktable_with_202603220752.jpeg)
 
 ---
 
@@ -89,7 +89,7 @@
 
 <br>
 
-[FIGURE 02: FULL-PAGE EDITORIAL — Close-up of the word "LEGOH" debossed into warm off-white stone paper. No color. Letterpress depth visible in raking light. Palette: **Pasir Kabut** ground, **Tanah Vulkanik** shadow.]
+![Close-up of the word "LEGOH" debossed into warm off-white stone paper. No color. Letterpress depth visible in raking light. Palette: Pasir Kabut ground, Tanah Vulkanik shadow.](Images/Close-up_of__LEGOH__202603220752.jpeg)
 
 ---
 
@@ -168,7 +168,7 @@ Before any naming options are considered, a forensic analysis of the surname rev
 
 <br>
 
-[FIGURE 03: ASYMMETRIC INSET — A split composition. Left half: the word "Rosemary" in botanical serif. Right half: a hand-drawn architectural plan of the RL Fold collar. Both rendered in **Tanah Vulkanik** ink on **Pasir Kabut** paper.]
+![A split composition. Left half: the word "Rosemary" in botanical serif. Right half: a hand-drawn architectural plan of the RL Fold collar. Both rendered in Tanah Vulkanik ink on Pasir Kabut paper.](Images/Illustration_ROSEMARY_architectu…_202603220751.jpeg)
 
 ---
 
@@ -343,7 +343,7 @@ When a batch is delayed or production yields fewer pieces than planned, tell the
 
 <br>
 
-[FIGURE 04: FULL-PAGE EDITORIAL — Three logo concepts rendered in **Tanah Vulkanik** ink on heavy cotton rag paper, lit from the side to reveal emboss depth. A brass ruler and architect's compass rest beside them. Natural gallery light.]
+![Three logo concepts rendered in Tanah Vulkanik ink on heavy cotton rag paper, lit from the side to reveal emboss depth. A brass ruler and architect's compass rest beside them. Natural gallery light.](Images/Three_logo_concepts_202603220752.jpeg)
 
 ---
 
@@ -422,13 +422,13 @@ The two names are set vertically — ROSEMARY and LEGOH as parallel columns. The
 
 <br>
 
-[FIGURE 14: DESIGN ASSET — Three vertical colour palette swatch strips arranged side by side on heavy off-white paper, labelled *"Threshold Edition,"* *"Colonnade Edition,"* and *"Parang Grid Edition."* Each strip shows four paint-chip-style rectangular swatches. The colour name and hex code are printed in a small clean sans-serif beneath each swatch. Natural gallery light from the left. No frame, no digital borders — aesthetic of a hand-assembled brand identity presentation.]
+![Three vertical colour palette swatch strips arranged side by side on heavy off-white paper, labelled Threshold Edition, Colonnade Edition, and Parang Grid Edition. Each strip shows four paint-chip-style rectangular swatches. The colour name and hex code are printed in a small clean sans-serif beneath each swatch. Natural gallery light from the left. No frame, no digital borders — aesthetic of a hand-assembled brand identity presentation.](Images/Colour_palette_swatch_202603220751.jpeg)
 
 ---
 
 <br>
 
-[FIGURE 05: TECHNICAL MACRO — Extreme close-up of the Abstract Monogram debossed into matte bronze hardware, photographed at a 15° angle. Visible patina. Depth of field: razor thin. Background: blurred **Pasir Kabut** fabric.]
+![Extreme close-up of the Abstract Monogram debossed into matte bronze hardware, photographed at a 15° angle. Visible patina. Depth of field: razor thin. Background: blurred Pasir Kabut fabric.](Images/RL_monogram_on_202603220752.jpeg)
 
 ---
 
@@ -478,7 +478,7 @@ The fold's diagonal travels at precisely **34 degrees** from horizontal. At less
 
 <br>
 
-[FIGURE 12: TECHNICAL DIAGRAM — Blueprint-style orthographic elevation of the RL Fold collar. Five labeled structural zones with dimension annotations and leader lines: Origin, Diagonal (34°), Peak, Descent, Resolution. A protractor arc marks the 34° angle. White lines on **Laut Dalam** (#1E3040) background. Modernist architectural drawing style, monospaced annotation font, no decorative elements.]
+![Blueprint-style orthographic elevation of the RL Fold collar. Five labeled structural zones with dimension annotations and leader lines: Origin, Diagonal (34°), Peak, Descent, Resolution. A protractor arc marks the 34° angle. White lines on Laut Dalam background. Modernist architectural drawing style, monospaced annotation font, no decorative elements.](Images/Origami_collar_construction_202603220752.jpeg)
 
 ---
 
@@ -507,7 +507,7 @@ The fold's diagonal travels at precisely **34 degrees** from horizontal. At less
 
 <br>
 
-[FIGURE 06: FULL-PAGE EDITORIAL — A model stands in profile, the RL Fold collar catching late afternoon sidelight through gallery glass. The fold's shadow draws a geometric line across her collarbone. Shot on medium-format film. Color: desaturated warm neutrals. **Tanah Vulkanik** and **Pasir Kabut** tones.]
+![A model stands in profile, the RL Fold collar catching late afternoon sidelight through gallery glass. The fold's shadow draws a geometric line across her collarbone. Shot on medium-format film. Color: desaturated warm neutrals. Tanah Vulkanik and Pasir Kabut tones.](Images/Woman_in_batik_202603220751.jpeg)
 
 ---
 
@@ -614,7 +614,7 @@ The RL Fold was designed with shadow in mind. The asymmetric planes create natur
 
 <br>
 
-[FIGURE 16: STORYBOARD CONTACT SHEET — Five gestural black-on-white silhouette sketches in a single horizontal row, each contained in a thin-ruled rectangular box. Each sketch shows a simplified female figure in one of the five power poses. The asymmetric fold collar reads clearly as a structural shape in every silhouette. Below each box: a bold numeral (01–05) and the italic pose name. Art director's shot-list aesthetic — confident brushstroke figures, no shading, clean white ground.]
+![Five gestural black-on-white silhouette sketches in a single horizontal row, each contained in a thin-ruled rectangular box. Each sketch shows a simplified female figure in one of the five power poses. The asymmetric fold collar reads clearly as a structural shape in every silhouette. Below each box: a bold numeral (01–05) and the italic pose name. Art director's shot-list aesthetic — confident brushstroke figures, no shading, clean white ground.](Images/Fashion_storyboard_contact_202603220751.jpeg)
 
 ---
 
@@ -636,7 +636,7 @@ The RL Fold was designed with shadow in mind. The asymmetric planes create natur
 
 <br>
 
-[FIGURE 07: FULL-PAGE EDITORIAL — Macro shot of hand-woven ATBM batik weave. Individual threads visible. A brass loupe rests on the fabric. Natural raking light from the left reveals texture depth. Palette: sogan earth tones, **Tanah Vulkanik** shadow, raw indigo thread.]
+![Macro shot of hand-woven ATBM batik weave. Individual threads visible. A brass loupe rests on the fabric. Natural raking light from the left reveals texture depth. Palette: sogan earth tones, Tanah Vulkanik shadow, raw indigo thread.](Images/Hand-woven_batik_textile_202603220752.jpeg)
 
 ---
 
@@ -685,7 +685,7 @@ Looser, more expressive motifs. Brighter palettes. Higher innovation culture. Ca
 
 <br>
 
-[FIGURE 13: DOCUMENTARY PHOTOGRAPH — An Indonesian artisan's hands threading a shuttle loaded with indigo-dyed yarn through taut cream-coloured warp threads on a narrow teak ATBM handloom in a Solo workshop. Natural window light from the right, soft and unmanipulated. No face in frame. Background: blurred workshop interior with stacked fabric bolts. Palette: warm teak, indigo thread, undyed cotton cream. Peter Lindbergh documentary influence.]
+![An Indonesian artisan's hands threading a shuttle loaded with indigo-dyed yarn through taut cream-coloured warp threads on a narrow teak ATBM handloom in a Solo workshop. Natural window light from the right, soft and unmanipulated. No face in frame. Background: blurred workshop interior with stacked fabric bolts. Palette: warm teak, indigo thread, undyed cotton cream. Peter Lindbergh documentary influence.](Images/Woman's_hands_working_202603220751.jpeg)
 
 <br>
 
@@ -817,7 +817,7 @@ Looser, more expressive motifs. Brighter palettes. Higher innovation culture. Ca
 
 <br>
 
-[FIGURE 08: ASYMMETRIC INSET — A rigid cream box, lid removed, Lurik band untied. The RL Fold collar is visible face-up. Heritage Note in stone paper rests beside the box. Natural overhead light, soft shadow. Palette: **Pasir Kabut** ground, indigo Lurik accent, **Benang Merah** wax seal.]
+![A rigid cream box, lid removed, Lurik band untied. The RL Fold collar is visible face-up. Heritage Note in stone paper rests beside the box. Natural overhead light, soft shadow. Palette: Pasir Kabut ground, indigo Lurik accent, Benang Merah wax seal.](Images/Luxury_fashion_unboxing_202603220752.jpeg)
 
 ---
 
@@ -940,7 +940,7 @@ Even at 83% sell-through (25 of 30 units), the drop remains profitable. The rema
 
 <br>
 
-[FIGURE 09: TECHNICAL MACRO — Overhead shot of the Master Allocation Table. Printed on cream card stock. Unit numbers handwritten in warm indigo ink. A tailor's chalk and brass measuring tape rest alongside. Natural diffused light.]
+![Overhead shot of the Master Allocation Table. Printed on cream card stock. Unit numbers handwritten in warm indigo ink. A tailor's chalk and brass measuring tape rest alongside. Natural diffused light.](Images/Hand-drawn_production_chart_202603220752.jpeg)
 
 ---
 
@@ -991,7 +991,7 @@ Hand-applied deep indigo wax seal bearing The Mark. Below: handwritten in ink �
 
 <br>
 
-[FIGURE 15: PRODUCT DESIGN FLAT-LAY — The Heritage Note (*Secarik Sejarah*) lies open to both interior panels on a raw oak surface. Left panel: structured garment metadata in small-capitals. Right panel: italic letterpress text in warm indigo. Below it: the Wax Seal Card in stone paper, a deep indigo wax seal bearing The Mark at centre, two lines of handwritten fountain-pen text below. Soft overhead natural light. Palette: **Pasir Kabut** stone paper, warm indigo letterpress, **Benang Merah** wax seal, warm oak grain.]
+![The Heritage Note (Secarik Sejarah) lies open to both interior panels on a raw oak surface. Left panel: structured garment metadata in small-capitals. Right panel: italic letterpress text in warm indigo. Below it: the Wax Seal Card in stone paper, a deep indigo wax seal bearing The Mark at centre, two lines of handwritten fountain-pen text below. Soft overhead natural light. Palette: Pasir Kabut stone paper, warm indigo letterpress, Benang Merah wax seal, warm oak grain.](Images/Two_cards_with_202603220751.jpeg)
 
 <br>
 
@@ -1065,7 +1065,7 @@ Signed with Rosemary's name. Not "The Team."
 
 <br>
 
-[FIGURE 10: FULL-PAGE EDITORIAL — A woman's hand holding a smartphone displaying a "Sold Out" Stories card. Background: a Rosemary Legoh box on a raw wood table, Lurik band loosely coiled beside it. Soft afternoon window light. Palette: **Pasir Kabut**, warm oak, indigo accent.]
+![A woman's hand holding a smartphone displaying a "Sold Out" Stories card. Background: a Rosemary Legoh box on a raw wood table, Lurik band loosely coiled beside it. Soft afternoon window light. Palette: Pasir Kabut, warm oak, indigo accent.](Images/Woman's_hand_holds_202603220752.jpeg)
 
 ---
 
@@ -1231,7 +1231,7 @@ Every message must pass four checks:
 
 <br>
 
-[FIGURE 11: ASYMMETRIC INSET — Split-screen mobile mockup. Left: Instagram Story showing the Fold silhouette teaser (Day 5). Right: the product page Scarcity UI reading "Final 2 pieces" with amber dot. Both rendered on a **Pasir Kabut** background.]
+![Split-screen mobile mockup. Left: Instagram Story showing the Fold silhouette teaser (Day 5). Right: the product page Scarcity UI reading "Final 2 pieces" with amber dot. Both rendered on a Pasir Kabut background.](Images/Two_smartphones_on_202603220752.jpeg)
 
 ---
 
