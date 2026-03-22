@@ -1,8 +1,4 @@
 
-
-<br>
-<br>
-<br>
 <br>
 
 # ✦ RUMAH MODE ✦
@@ -10,12 +6,6 @@
 ## ROSEMARY LEGOH
 
 ### *Monografi Strategis Definitif*
-
-<br>
-
-> *"Sebuah rumah tidak dibangun dari atap ke bawah. Ia dibangun dari fondasi ke atas — dari nama yang dipahat di ambang pintu, melalui matematika lipatan, hingga catatan tulisan tangan terakhir yang diletakkan di dalam kotak. Dokumen ini adalah cetak birunya."*
-
-<br>
 
 **Disiapkan untuk Judy Rosemary Legoh - Maret 2026**
 
