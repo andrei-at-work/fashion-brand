@@ -5,17 +5,19 @@
 
 ## ROSEMARY LEGOH
 
+<br>
+<br>
+
 ### *Monografi Strategis Definitif*
 
 **Disiapkan untuk Judy Rosemary Legoh - Maret 2026**
 
-<div style="page-break-after: always;"></div>
-
----
+<br>
+<br>
 
 ![Overhead shot of an architect's table. Batik fabric swatches arranged beside structural sketches of the RL Fold collar. Natural light from a west-facing window. Color palette: Tanah Vulkanik, Pasir Kabut, raw concrete.](Images/Architects_worktable_with_202603220752.jpeg)
 
----
+<div style="page-break-after: always;"></div>
 
 <br>
 <br>
@@ -51,10 +53,6 @@
 - 5.3 Cetak Biru Digital Omnichannel
 - 5.4 Pembandingan Kompetitor & Analisis Ruang Kosong
 - 5.5 Uji Tekanan Strategis
-
-**LAMPIRAN — LEMBAR PEMBUATAN GAMBAR** .............. *16 Prompt untuk Midjourney / DALL-E*
-
----
 
 <div style="page-break-after: always;"></div>
 
