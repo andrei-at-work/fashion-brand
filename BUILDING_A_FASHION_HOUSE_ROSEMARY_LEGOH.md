@@ -1428,7 +1428,7 @@ no men's garments, no dress shirt collars, no ties. A brass compass, architects'
 ruler, and a loupe rest on the table. Natural afternoon sidelight from a large west-facing
 window, casting long geometric shadows across the surface. Shot on large-format camera.
 Color palette: dark volcanic earth, warm sand, raw concrete grey. No people in frame.
-Editorial still-life. 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+Editorial still-life. ultra-high definition, hyper-realistic, maximum detail.
 Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
@@ -1441,7 +1441,7 @@ Extreme close-up of the word "LEGOH" debossed 0.5mm deep into heavy off-white co
 rag paper. Letterpress impression visible. Sans-serif geometric typeface, ultra-wide
 tracking. Lit from the left at a raking angle — each letter casts a precise tiny shadow
 revealing depth. Background: warm cream paper texture fills the entire frame. No color.
-Monochrome warmth. Shot on macro lens, medium-format film grain. 8k resolution,
+Monochrome warmth. Shot on macro lens, medium-format film grain.
 ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
 ```
 
@@ -1456,7 +1456,7 @@ the words "ROSEMARY LEGOH" — one with portal-like vertical bars flanking the n
 with vertical columnar stacking, one with a structural rectangular enclosure. A brass ruler
 and architect's compass rest beside them. Side lighting from a gallery window reveals
 emboss-like pen pressure in the strokes. Warm neutral palette. No digital rendering —
-must look hand-made. 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
+must look hand-made. ultra-high definition, hyper-realistic, maximum detail.
 Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
@@ -1465,12 +1465,14 @@ Aspect ratio: Landscape (3:2). Style: Raw
 ### PROMPT 04 — The Bronze Monogram *(for FIGURE 05)*
 
 ```
-Macro photograph of an abstract geometric monogram debossed into brushed matte bronze
-hardware — a zipper pull or garment press-stud. The mark consists of two vertical strokes
-of unequal height connected at a horizontal base. Photographed at a 15-degree angle.
+Macro photograph of the "RL" monogram (the letters R and L, interlocked as an abstract
+geometric mark) debossed into brushed matte bronze hardware — a zipper pull or garment
+press-stud for the Rosemary Legoh women's fashion house. The RL letterforms are rendered
+as two vertical strokes of unequal height on a shared horizontal base. Photographed at a
+15-degree angle.
 Razor-thin depth of field — only the monogram is sharp. Background: blurred warm sand-
 colored woven fabric with visible thread texture. Studio light simulating a single window
-source from above-right. Visible patina and age on the bronze. 8k resolution,
+source from above-right. Visible patina and age on the bronze.
 ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Square (1:1). Style: Raw
 ```
 
@@ -1512,8 +1514,9 @@ ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Square (1:
 Overhead editorial photograph of a luxury fashion unboxing. A rigid cream-colored lift-off
 box sits open on a raw oak table. Inside: a neatly folded women's dark indigo Javanese
 batik outer coat — the RL Fold collar's asymmetric origami pleat clearly visible at the top. A hand-woven striped Lurik fabric band in
-cream and indigo lies untied beside the box. A small stone-paper card with a letterpress
-monogram and a dark blue wax seal rest on the table. Soft overhead natural light, warm
+cream and indigo lies untied beside the box. A small stone-paper card bearing the debossed
+"RL" monogram (the letters R and L, interlocked as an abstract geometric mark — the same
+RL letterforms as the Rosemary Legoh hardware monogram) and a dark blue wax seal rest on the table. Soft overhead natural light, warm
 shadows. No hands in frame. Color palette: warm off-white, deep indigo, aged oak, a
 single accent of deep red-brown wax. 8k resolution, ultra-high definition,
 hyper-realistic, maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
