@@ -1426,7 +1426,7 @@ compass, architects' scale ruler, and a loupe rest on the table. Natural afterno
 sidelight from a large west-facing window, casting long geometric shadows across the
 surface. Shot on large-format camera. Color palette: dark volcanic earth, warm sand,
 raw concrete grey. No people in frame. Editorial still-life. 8k resolution, ultra-high
-definition, hyper-realistic, maximum detail. --ar 3:2 --style raw
+definition, hyper-realistic, maximum detail. Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
 ---
@@ -1439,7 +1439,7 @@ rag paper. Letterpress impression visible. Sans-serif geometric typeface, ultra-
 tracking. Lit from the left at a raking angle — each letter casts a precise tiny shadow
 revealing depth. Background: warm cream paper texture fills the entire frame. No color.
 Monochrome warmth. Shot on macro lens, medium-format film grain. 8k resolution,
-ultra-high definition, hyper-realistic, maximum detail. --ar 4:5 --style raw
+ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
 ```
 
 ---
@@ -1454,7 +1454,7 @@ with vertical columnar stacking, one with a structural rectangular enclosure. A 
 and architect's compass rest beside them. Side lighting from a gallery window reveals
 emboss-like pen pressure in the strokes. Warm neutral palette. No digital rendering —
 must look hand-made. 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
---ar 3:2 --style raw
+Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
 ---
@@ -1468,7 +1468,7 @@ of unequal height connected at a horizontal base. Photographed at a 15-degree an
 Razor-thin depth of field — only the monogram is sharp. Background: blurred warm sand-
 colored woven fabric with visible thread texture. Studio light simulating a single window
 source from above-right. Visible patina and age on the bronze. 8k resolution,
-ultra-high definition, hyper-realistic, maximum detail. --ar 1:1 --style raw
+ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Square (1:1). Style: Raw
 ```
 
 ---
@@ -1484,7 +1484,7 @@ the collarbone. Raw concrete walls, floor-to-ceiling glass with tropical foliage
 Natural afternoon sidelight, unfiltered, no flash. Expression: still, composed, powerful.
 Medium-format film grain. Warm neutrals, desaturated shadows. Full-length portrait.
 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
---ar 4:5 --style raw
+Aspect ratio: Portrait (4:5). Style: Raw
 ```
 
 ---
@@ -1498,7 +1498,7 @@ spacing. A small brass jeweler's loupe rests on the fabric at the edge of frame.
 raking light from the left at 80 degrees to the surface, casting micro-shadows between
 each thread. Color palette: sogan earth tones — warm brown, raw indigo, undyed cotton
 cream. No processing, no filters. Shot on 100mm macro lens. 8k resolution,
-ultra-high definition, hyper-realistic, maximum detail. --ar 1:1 --style raw
+ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Square (1:1). Style: Raw
 ```
 
 ---
@@ -1513,7 +1513,7 @@ cream and indigo lies untied beside the box. A small stone-paper card with a let
 monogram and a dark blue wax seal rest on the table. Soft overhead natural light, warm
 shadows. No hands in frame. Color palette: warm off-white, deep indigo, aged oak, a
 single accent of deep red-brown wax. 8k resolution, ultra-high definition,
-hyper-realistic, maximum detail. --ar 4:5 --style raw
+hyper-realistic, maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
 ```
 
 ---
@@ -1527,7 +1527,7 @@ in small capitals. A tailor's chalk piece and a coiled brass measuring tape rest
 the paper. Soft diffused natural light from above. The paper has slight curl at the edges.
 No digital elements — entirely analog aesthetic. Color palette: warm cream, indigo ink,
 brass. 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
---ar 3:2 --style raw
+Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
 ---
@@ -1542,7 +1542,7 @@ coiled indigo-and-cream striped fabric band beside it. Soft afternoon window lig
 right. Shallow depth of field. The hand has a single architectural bronze cuff bracelet.
 No face visible. Color palette: warm sand, oak, deep indigo, screen glow.
 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
---ar 4:5 --style raw
+Aspect ratio: Portrait (4:5). Style: Raw
 ```
 
 ---
@@ -1557,7 +1557,7 @@ minimalist luxury e-commerce product page with the text "Final 2 pieces" next to
 amber dot indicator. Both screens at slight angle. Soft natural overhead light, no harsh
 reflections. Color palette: warm cream linen, screen whites and indigos.
 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
---ar 16:9 --style raw
+Aspect ratio: Cinematic Landscape (16:9). Style: Raw
 ```
 
 ---
@@ -1571,7 +1571,7 @@ thin leader lines: "Origin Point," "The Diagonal (34°)," "The Peak," "The Desce
 "Resolution Point." A protractor marking shows the 34-degree angle. Drawn in the style
 of a modernist architectural elevation drawing — precise, minimal, no decorative elements.
 Small annotation text in a monospaced font. 8k resolution, ultra-high definition,
-hyper-realistic, maximum detail. --ar 3:2 --style raw
+hyper-realistic, maximum detail. Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
 ---
@@ -1586,7 +1586,7 @@ marks. Natural window light from the right, soft and unmanipulated. The backgrou
 blurred workshop interior — stacked fabric bolts, hanging threads. Shot at eye level with
 the hands. No face visible. Color palette: warm wood, indigo thread, cream cotton, soft
 shadows. Peter Lindbergh documentary influence. 8k resolution, ultra-high definition,
-hyper-realistic, maximum detail. --ar 4:5 --style raw
+hyper-realistic, maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
 ```
 
 ---
@@ -1602,7 +1602,7 @@ five numbered zones with technical dimension lines, seam annotations, and a 34°
 marked with a protractor arc. Both halves rendered exclusively in dark volcanic brown ink
 (**Tanah Vulkanik**). A faint hairline divides the two panels. No colour beyond that
 single ink tone. Asymmetric inset format. Shot on large-format camera. 8k resolution,
-ultra-high definition, hyper-realistic, maximum detail. --ar 3:2 --style raw
+ultra-high definition, hyper-realistic, maximum detail. Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
 ---
@@ -1619,7 +1619,7 @@ ivory, mangrove sea green-black, antique gold. Right strip labelled "Parang Grid
 Benang Merah stripe. Each swatch is a painted rectangle with the colour name and hex code
 printed in small monospaced type below. Natural gallery light from the left. Clean white
 border. Large-format camera. 8k resolution, ultra-high definition,
-hyper-realistic, maximum detail. --ar 3:2 --style raw
+hyper-realistic, maximum detail. Aspect ratio: Landscape (3:2). Style: Raw
 ```
 
 ---
@@ -1637,7 +1637,7 @@ two-vertical-stroke monogram; beneath the seal, two lines of handwritten fountai
 cursive. Soft overhead natural window light. No props beyond the two cards.
 Color palette: stone paper warm white, indigo letterpress, deep **Benang Merah** wax,
 warm oak grain. 8k resolution, ultra-high definition, hyper-realistic,
-maximum detail. --ar 4:5 --style raw
+maximum detail. Aspect ratio: Portrait (4:5). Style: Raw
 ```
 
 ---
@@ -1655,7 +1655,7 @@ near collar. In each sketch the asymmetric fold collar reads as a clear structur
 Below each box: bold numerals 01–05 and the italic pose name in a clean sans-serif.
 Confident brushstroke draughtsmanship, no grey shading, pure black and white.
 8k resolution, ultra-high definition, hyper-realistic, maximum detail.
---ar 16:9 --style raw
+Aspect ratio: Cinematic Landscape (16:9). Style: Raw
 ```
 
 ---
