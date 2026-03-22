@@ -1,5 +1,4 @@
 
----
 
 <br>
 <br>
@@ -18,8 +17,7 @@
 
 <br>
 
-**Disiapkan untuk Judy Rosemary Legoh**
-**Jakarta, Maret 2026**
+**Disiapkan untuk Judy Rosemary Legoh - Maret 2026**
 
 <div style="page-break-after: always;"></div>
 
@@ -482,7 +480,7 @@ Diagonal lipatan melintasi tepat pada **34 derajat** dari horizontal. Pada kuran
 
 <br>
 
-![A model stands in profile, the RL Fold collar catching late afternoon sidelight through gallery glass. The fold's shadow draws a geometric line across her collarbone. Shot on medium-format film. Color: desaturated warm neutrals. Tanah Vulkanik and Pasir Kabut tones.](Images/Woman_in_batik_202603220751.jpeg)
+![A model stands in profile, the RL Fold collar catching late afternoon sidelight through gallery glass. The fold's shadow draws a geometric line across her collarbone. Shot on medium-format film. Color: desaturated warm neutrals. Tanah Vulkanik and Pasir Kabut tones.](Images/Woman_in_batik_202603221250.jpeg)
 
 <div style="page-break-after: always;"></div>
 
@@ -605,7 +603,7 @@ Lipatan RL dirancang dengan bayangan dalam pikiran. Bidang asimetris menciptakan
 
 <br>
 
-![Macro shot of hand-woven ATBM batik weave. Individual threads visible. A brass loupe rests on the fabric. Natural raking light from the left reveals texture depth. Palette: sogan earth tones, Tanah Vulkanik shadow, raw indigo thread.](Images/Hand-woven_batik_textile_202603220752.jpeg)
+![Macro shot of hand-woven ATBM batik weave. Individual threads visible. A brass loupe rests on the fabric. Natural raking light from the left reveals texture depth. Palette: sogan earth tones, Tanah Vulkanik shadow, raw indigo thread.](Images/Origami_collar_hand-dyed_202603221252.jpeg)
 
 <div style="page-break-after: always;"></div>
 
