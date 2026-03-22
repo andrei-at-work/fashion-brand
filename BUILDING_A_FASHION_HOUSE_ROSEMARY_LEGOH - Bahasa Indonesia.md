@@ -1,4 +1,111 @@
 
+<div style="page-break-after: always; background-color: #1C1A17; color: #F5F0E8; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: space-between; box-sizing: border-box; overflow: hidden; margin: 0; padding: 0; font-family: 'Garamond', 'Didot', 'Georgia', serif;">
+
+<!-- TOP RULE -->
+<div style="width: 100%; height: 2px; background: linear-gradient(to right, #1C1A17, #A0845C 30%, #A0845C 70%, #1C1A17);"></div>
+
+<!-- ISSUE METADATA BAR -->
+<div style="width: 100%; display: flex; justify-content: space-between; align-items: center; padding: 16px 52px 10px; box-sizing: border-box;">
+  <span style="font-size: 8px; letter-spacing: 5px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 300;">Vol. I &nbsp;·&nbsp; Edisi Pendiri</span>
+  <span style="font-size: 8px; letter-spacing: 5px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 300;">Jakarta &nbsp;·&nbsp; Maret 2026</span>
+  <span style="font-size: 8px; letter-spacing: 5px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 300;">Monografi Definitif</span>
+</div>
+
+<!-- MASTHEAD -->
+<div style="width: 100%; text-align: center; padding: 8px 52px 20px; box-sizing: border-box;">
+  <div style="font-size: 9px; letter-spacing: 9px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 300; margin-bottom: 12px;">— MEMBANGUN RUMAH MODE —</div>
+  <div style="font-size: clamp(54px, 9.5vw, 100px); font-weight: 200; letter-spacing: 0.20em; text-transform: uppercase; color: #F5F0E8; line-height: 0.92; font-family: 'Garamond', 'Didot', 'Georgia', serif;">ROSEMARY</div>
+  <div style="width: 55%; height: 1px; background: linear-gradient(to right, transparent, #A0845C 15%, #A0845C 85%, transparent); margin: 18px auto;"></div>
+  <div style="font-size: clamp(54px, 9.5vw, 100px); font-weight: 200; letter-spacing: 0.20em; text-transform: uppercase; color: #F5F0E8; line-height: 0.92; font-family: 'Garamond', 'Didot', 'Georgia', serif;">LEGOH</div>
+</div>
+
+<!-- HERO IMAGE -->
+<div style="width: 100%; max-width: 520px; margin: 0 auto; padding: 0 52px; box-sizing: border-box; text-align: center; flex-shrink: 0;">
+
+![PLACEHOLDER — COVER HERO IMAGE. A sovereign Indonesian woman in her late 30s stands at a composed three-quarter angle against a near-black background. She wears the RL Fold outer coat in hand-dyed Javanese batik — deep mineral indigo meeting warm ivory — the signature asymmetric origami collar folding diagonally across her neckline at 34°, casting a precise geometric shadow over her collarbone. A single shaft of warm raking sidelight from the upper-left sculpts the fold's architecture and her face with equal precision. One antique bronze collar stud catches the light. No jewelry. No background detail — darkness as architecture. Expression: sovereign, still, architecturally present. Analog medium-format film aesthetic. Palette: #1C1A17 shadow, #F5F0E8 highlight, #A0845C bronze accent thread. Quiet luxury. Vogue Italia meets Vogue Indonesia.](Images/cover_hero_rl_fold.jpeg)
+
+</div>
+
+<!-- COVER LINES -->
+<div style="width: 100%; display: flex; justify-content: space-between; align-items: flex-start; padding: 22px 52px 18px; box-sizing: border-box;">
+
+  <!-- Left Cover Lines -->
+  <div style="text-align: left; max-width: 44%;">
+    <div style="font-size: 7.5px; letter-spacing: 4px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 400; margin-bottom: 14px;">Di Dalam Edisi Ini</div>
+    <div style="font-size: 12.5px; color: #F5F0E8; line-height: 1.55; margin-bottom: 5px; font-style: italic;">Mengapa Lipatan RL Adalah Arsitektur, Bukan Sekadar Desain</div>
+    <div style="width: 18px; height: 1px; background-color: #A0845C; margin: 9px 0;"></div>
+    <div style="font-size: 12.5px; color: #F5F0E8; line-height: 1.55; margin-bottom: 5px; font-style: italic;">Ekonomi Kelangkaan: Seni Menjual Lebih Sedikit untuk Bernilai Lebih</div>
+    <div style="width: 18px; height: 1px; background-color: #A0845C; margin: 9px 0;"></div>
+    <div style="font-size: 12.5px; color: #F5F0E8; line-height: 1.55; font-style: italic;">Tiga Perempuan, Satu Lipatan — Potret Patron Kami</div>
+  </div>
+
+  <!-- Center Rule -->
+  <div style="width: 1px; background: linear-gradient(to bottom, transparent, #A0845C 20%, #A0845C 80%, transparent); margin: 0 20px; align-self: stretch;"></div>
+
+  <!-- Right Cover Lines -->
+  <div style="text-align: right; max-width: 44%;">
+    <div style="font-size: 7.5px; letter-spacing: 4px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 400; margin-bottom: 14px; text-align: right;">Juga</div>
+    <div style="font-size: 12.5px; color: #F5F0E8; line-height: 1.55; margin-bottom: 5px; font-style: italic; text-align: right;">Wastra sebagai Material Arsitektural: Ketika Tenunan Menjadi Struktur</div>
+    <div style="width: 18px; height: 1px; background-color: #A0845C; margin: 9px 0 9px auto;"></div>
+    <div style="font-size: 12.5px; color: #F5F0E8; line-height: 1.55; margin-bottom: 5px; font-style: italic; text-align: right;">Cetak Biru Digital Omnichannel Tanpa Kehilangan Ekslusivitas</div>
+    <div style="width: 18px; height: 1px; background-color: #A0845C; margin: 9px 0 9px auto;"></div>
+    <div style="font-size: 12.5px; color: #F5F0E8; line-height: 1.55; font-style: italic; text-align: right;">Dari JR Collection ke Rumah Legoh: Sebuah Nama Menemukan Dirinya</div>
+  </div>
+
+</div>
+
+<!-- TAGLINE STRIP -->
+<div style="width: 100%; border-top: 1px solid #A0845C; padding: 13px 52px; box-sizing: border-box; text-align: center;">
+  <span style="font-size: 8px; letter-spacing: 6px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 300;">IDENTITAS &nbsp;·&nbsp; ARSITEKTUR &nbsp;·&nbsp; WASTRA &nbsp;·&nbsp; KELANGKAAN &nbsp;·&nbsp; RUMAH</span>
+</div>
+
+<!-- BOTTOM RULE -->
+<div style="width: 100%; height: 2px; background: linear-gradient(to right, #1C1A17, #A0845C 30%, #A0845C 70%, #1C1A17);"></div>
+
+</div>
+
+---
+
+<div style="page-break-after: always; padding: 60px 52px; box-sizing: border-box; background-color: #F5F0E8; font-family: 'Garamond', 'Georgia', serif;">
+
+<br>
+
+<div style="text-align: center; margin-bottom: 48px;">
+  <div style="font-size: 8px; letter-spacing: 7px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 300; margin-bottom: 12px;">Lampiran Produksi</div>
+  <div style="font-size: 28px; font-weight: 300; letter-spacing: 0.12em; text-transform: uppercase; color: #1C1A17;">Prompt Gambar Sampul</div>
+  <div style="width: 40px; height: 1px; background-color: #A0845C; margin: 16px auto;"></div>
+  <div style="font-size: 11px; letter-spacing: 3px; text-transform: uppercase; color: #A0845C; font-family: 'Helvetica Neue', 'Arial', sans-serif; font-weight: 300;">Untuk Midjourney · DALL-E · Adobe Firefly</div>
+</div>
+
+---
+
+### Prompt 1 — Cover Hero: Potret Lipatan RL
+*Gambar utama sampul. Rasio 3:4 (potret vertikal).*
+
+> *Editorial fashion photography for a high-end Indonesian fashion house cover. A poised Indonesian woman in her late 30s stands at a composed three-quarter angle. She wears a structured outer coat in hand-dyed Javanese batik — deep mineral indigo and warm ivory — featuring the RL Fold: a single asymmetric origami collar beginning at the left collarbone, folding diagonally at 34° across the neckline, resolving at the right shoulder blade. The fold casts a precise geometric shadow. Near-black background — pure architectural darkness. A single shaft of warm raking sidelight from upper-left sculpts the fold's geometry and her face simultaneously. One antique bronze collar stud catches the light. No jewelry. No background detail. Expression: sovereign, unreadable, architecturally present. Medium-format analog film aesthetic, Fujifilm GFX grain. Color palette: near-black shadow tones (#1C1A17), warm ivory highlight (#F5F0E8), antique bronze accent (#A0845C). Mood: Vogue Italia meets Vogue Indonesia. Quiet luxury. --ar 3:4 --style raw*
+
+**Catatan Produksi:** Bayangan lipatan harus terbaca tajam — ini adalah elemen desain, bukan artefak pencahayaan. Usahakan latar belakang tetap gelap agar teks overlay masthead kontras sempurna.
+
+---
+
+### Prompt 2 — Variasi Siluet: Lipatan dalam Cahaya Samping Penuh
+*Alternatif untuk sampul edisi berikutnya atau editorial dalam.*
+
+> *High-fashion editorial silhouette study. An Indonesian woman in profile, full body, standing against a floor-to-ceiling window with late afternoon tropical light streaming from the left. She wears the RL Fold outer coat in ivory batik with deep indigo geometric motif. The asymmetric collar folds away from the neck in a single architectural gesture, its shadow drawing a diagonal line across her chest. Her posture is still — a load-bearing wall in human form. Shot on medium-format black-and-white film, high contrast. Background: blurred tropical foliage seen through glass. No face visible. The fold is the subject. Mood: Peter Lindbergh meets Solo Batik. --ar 3:4 --style raw*
+
+**Catatan Produksi:** Profil murni tanpa wajah memberikan aura misterius. Fokus sepenuhnya pada geometri lipatan dan siluet tubuh.
+
+---
+
+### Prompt 3 — Detail Arsitektural: Close-Up Lipatan
+*Untuk digunakan sebagai elemen dekoratif dalam dan pada materi cetak.*
+
+> *Extreme close-up macro fashion detail. The RL Fold collar — an asymmetric origami fold in hand-dyed Javanese batik silk, deep indigo with organic ikat patterning — photographed at 45° angle. The fold's spine catches a single hard light source at 90°. Every hand-sewn stitch visible. The batik motif interrupted and transformed by the fold line — the cut reveals both pattern and structure simultaneously. Raked sidelight casts a razor-sharp shadow along the fold's ridge. Background: blurred dark fabric. Shot with 100mm macro lens. Color: desaturated warm tones, one note of antique bronze from a hidden collar stud. --ar 1:1 --style raw*
+
+**Catatan Produksi:** Foto ini menjadi bukti visual dari Manifesto Desain — bahwa Lipatan RL adalah rekayasa, bukan dekorasi.
+
+</div>
+
 ---
 
 <br>
@@ -21,10 +128,7 @@
 **Disiapkan untuk Judy Rosemary Legoh**
 **Jakarta, Maret 2026**
 
-<br>
-<br>
-<br>
-<br>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -71,11 +175,7 @@
 
 ---
 
-<br>
-<br>
-<br>
-
----
+<div style="page-break-after: always;"></div>
 
 # FASE I
 
@@ -91,9 +191,7 @@
 
 ![Close-up of the word "LEGOH" debossed into warm off-white stone paper. No color. Letterpress depth visible in raking light. Palette: Pasir Kabut ground, Tanah Vulkanik shadow.](Images/Close-up_of__LEGOH__202603220752.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 1.1 MODUL PENAMAAN: IDENTITAS & PRESTISE
 
@@ -170,9 +268,7 @@ Sebelum opsi penamaan apa pun dipertimbangkan, analisis forensik atas nama belak
 
 ![A split composition. Left half: the word "Rosemary" in botanical serif. Right half: a hand-drawn architectural plan of the RL Fold collar. Both rendered in Tanah Vulkanik ink on Pasir Kabut paper.](Images/Illustration_ROSEMARY_architectu…_202603220751.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 1.2 FILTER PRESISI PERSONA
 
@@ -257,7 +353,7 @@ Sebelum opsi penamaan apa pun dipertimbangkan, analisis forensik atas nama belak
 
 ---
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 1.3 OTORITAS CERUK & SUARA KOMUNITAS
 
@@ -325,11 +421,7 @@ Ketika sebuah batch tertunda atau hasil produksi lebih sedikit dari yang direnca
 
 ---
 
-<br>
-<br>
-<br>
-
----
+<div style="page-break-after: always;"></div>
 
 # FASE II
 
@@ -345,9 +437,7 @@ Ketika sebuah batch tertunda atau hasil produksi lebih sedikit dari yang direnca
 
 ![Three logo concepts rendered in Tanah Vulkanik ink on heavy cotton rag paper, lit from the side to reveal emboss depth. A brass ruler and architect's compass rest beside them. Natural gallery light.](Images/Three_logo_concepts_202603220752.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 2.1 LAMBANG ARSITEKTURAL: RANGKAIAN LOGO
 
@@ -430,9 +520,7 @@ Dua nama disusun vertikal — ROSEMARY dan LEGOH sebagai kolom paralel. Komposis
 
 ![Extreme close-up of the Abstract Monogram debossed into matte bronze hardware, photographed at a 15° angle. Visible patina. Depth of field: razor thin. Background: blurred Pasir Kabut fabric.](Images/RL_monogram_on_202603220752.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 2.2 ANATOMI LIPATAN RL
 
@@ -509,9 +597,7 @@ Diagonal lipatan melintasi tepat pada **34 derajat** dari horizontal. Pada kuran
 
 ![A model stands in profile, the RL Fold collar catching late afternoon sidelight through gallery glass. The fold's shadow draws a geometric line across her collarbone. Shot on medium-format film. Color: desaturated warm neutrals. Tanah Vulkanik and Pasir Kabut tones.](Images/Woman_in_batik_202603220751.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 2.3 VISUALISASI TAMPILAN KHAS
 
@@ -567,7 +653,7 @@ Diagonal lipatan melintasi tepat pada **34 derajat** dari horizontal. Pada kuran
 
 ---
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 2.4 LEMBAR PANDUAN PENCERITAAN VISUAL
 
@@ -618,11 +704,7 @@ Lipatan RL dirancang dengan bayangan dalam pikiran. Bidang asimetris menciptakan
 
 ---
 
-<br>
-<br>
-<br>
-
----
+<div style="page-break-after: always;"></div>
 
 # FASE III
 
@@ -638,9 +720,7 @@ Lipatan RL dirancang dengan bayangan dalam pikiran. Bidang asimetris menciptakan
 
 ![Macro shot of hand-woven ATBM batik weave. Individual threads visible. A brass loupe rests on the fabric. Natural raking light from the left reveals texture depth. Palette: sogan earth tones, Tanah Vulkanik shadow, raw indigo thread.](Images/Hand-woven_batik_textile_202603220752.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 3.1 PENGADAAN KAIN & STANDAR KEBERLANJUTAN
 
@@ -724,7 +804,7 @@ Motif lebih longgar, lebih ekspresif. Palet lebih cerah. Budaya inovasi lebih ti
 
 ---
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 3.2 PAGAR PENGAMAN KUALITAS OPERASIONAL
 
@@ -799,11 +879,7 @@ Motif lebih longgar, lebih ekspresif. Palet lebih cerah. Budaya inovasi lebih ti
 
 ---
 
-<br>
-<br>
-<br>
-
----
+<div style="page-break-after: always;"></div>
 
 # FASE IV
 
@@ -819,9 +895,7 @@ Motif lebih longgar, lebih ekspresif. Palet lebih cerah. Budaya inovasi lebih ti
 
 ![A rigid cream box, lid removed, Lurik band untied. The RL Fold collar is visible face-up. Heritage Note in stone paper rests beside the box. Natural overhead light, soft shadow. Palette: Pasir Kabut ground, indigo Lurik accent, Benang Merah wax seal.](Images/Luxury_fashion_unboxing_202603220752.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 4.1 EKONOMI UNIT BERBASIS KELANGKAAN
 
@@ -891,7 +965,7 @@ Bahkan dengan sell-through 83% (25 dari 30 unit), drop tetap menguntungkan. Sisa
 
 ---
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 4.2 INVENTARIS & LOGIKA DROP
 
@@ -942,9 +1016,7 @@ Bahkan dengan sell-through 83% (25 dari 30 unit), drop tetap menguntungkan. Sisa
 
 ![Overhead shot of the Master Allocation Table. Printed on cream card stock. Unit numbers handwritten in warm indigo ink. A tailor's chalk and brass measuring tape rest alongside. Natural diffused light.](Images/Hand-drawn_production_chart_202603220752.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 4.3 UNBOXING SEBAGAI RITUAL
 
@@ -1007,7 +1079,7 @@ Segel lilin indigo dalam yang diaplikasikan tangan membawa The Mark. Di bawahnya
 
 ---
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 4.4 STRATEGI PEMASARAN DAFTAR TUNGGU
 
@@ -1047,11 +1119,7 @@ Ditandatangani dengan nama Rosemary. Bukan "Tim."
 
 ---
 
-<br>
-<br>
-<br>
-
----
+<div style="page-break-after: always;"></div>
 
 # FASE V
 
@@ -1067,9 +1135,7 @@ Ditandatangani dengan nama Rosemary. Bukan "Tim."
 
 ![A woman's hand holding a smartphone displaying a "Sold Out" Stories card. Background: a Rosemary Legoh box on a raw wood table, Lurik band loosely coiled beside it. Soft afternoon window light. Palette: Pasir Kabut, warm oak, indigo accent.](Images/Woman's_hand_holds_202603220752.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 5.1 PITCH INFLUENCER LINGKARAN DALAM
 
@@ -1123,7 +1189,7 @@ Lima suara yang dipilih dengan hati-hati diundang untuk menjadi yang pertama men
 
 ---
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 5.2 LINGKARAN RETENSI SENTUHAN TINGGI
 
@@ -1176,7 +1242,7 @@ Setiap pesan harus melewati empat pemeriksaan:
 
 ---
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 5.3 CETAK BIRU DIGITAL OMNICHANNEL
 
@@ -1233,9 +1299,7 @@ Setiap pesan harus melewati empat pemeriksaan:
 
 ![Split-screen mobile mockup. Left: Instagram Story showing the Fold silhouette teaser (Day 5). Right: the product page Scarcity UI reading "Final 2 pieces" with amber dot. Both rendered on a Pasir Kabut background.](Images/Two_smartphones_on_202603220752.jpeg)
 
----
-
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 5.4 PEMBANDINGAN KOMPETITOR & ANALISIS RUANG KOSONG
 
@@ -1291,7 +1355,7 @@ Warisan ────────────────────┼───
 
 ---
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 5.5 UJI TEKANAN STRATEGIS
 
